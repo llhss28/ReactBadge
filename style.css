@@ -1,0 +1,13 @@
+div{
+    border-style: dashed;
+}
+h1{
+    border-style: dashed;
+}
+
+h2{
+    border-style: solid;
+}
+input{
+    padding: 10px;
+}
